@@ -44,9 +44,9 @@ files: /js/demo.js,/css/demo.css
 ## Audit界面
 ----
 * 默认查询器
-    * 打开 Audit Required
-    * 表示担忧 Concern Raised
-    * 审核通过 Audited
+    * 打开 **Audit Required**
+    * 表示担忧 **Concern Raised**
+    * 审核通过 **Audited**
 * 审核操作
     * 开发者提交代码 {:&.moveIn}
     * 系统检查到Commits，发送邮件到审核者
@@ -143,7 +143,7 @@ $ arc land &lt;branch&gt;   # 审核通过后，合并&lt;branch&gt;到master并
 ----
 * nodeJS {:&.moveIn}
 * Markdown
-* 导出html, PDF
+* 导出ctrl+p, html, PDF
 * overview模式
 * 双屏模式
 * socket远程控制
