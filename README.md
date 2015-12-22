@@ -1,5 +1,6 @@
 # phabricator_ppt
-Introduction of Phabricator
+代码审查工具Phabricator介绍
 
-Play with nodePPT:
+使用nodePPT播放:
+
 https://github.com/ksky521/nodePPT
